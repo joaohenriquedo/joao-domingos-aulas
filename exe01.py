@@ -1,3 +1,10 @@
-# joao henrique domingos 16 anos gosto da serie dexter e jogar fifa 23
-eu amo a aula de zumba, mas amo mesmo a de programação de aplicativo
-alterei o negocio la
+ x = 34 - 23 #um comentario
+ y = "Hello" #outro comentario
+z = 3.45
+if z == 3.45 or y == "Hello":
+    x = x + 1
+    y = y + " World" #cancatenação de strings
+print(x)
+print(y)
+
+
