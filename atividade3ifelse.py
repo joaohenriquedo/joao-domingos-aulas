@@ -3,5 +3,5 @@ if nota >=7:
     print("aprovado")
 else:
     if nota >=5:
-        print("não aprovado//recuperação")
+        print("não aprovado / recuperação")
     print("não aprovado / reprovado direto")
