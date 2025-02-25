@@ -3,7 +3,7 @@ from tkinter import *
 def bt_click():
     num1 = int(ed1.get())
     num2 = int(ed2.get())
-    lb["text"] = num1 / num2
+    lb["text"] = num1 * num2
 
 
 i=Tk()
@@ -22,3 +22,8 @@ ed2 = Entry(i)
 ed2.place(x=230,y=180)
 
 i.mainloop()
+
+def bt_subtração():
+    num1 = int(ed1.get())
+    num2 = int(ed2.get())
+    lb["text"] = num1 * num2
